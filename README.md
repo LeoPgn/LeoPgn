@@ -19,6 +19,6 @@
     <img alt='hmtl5'src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white>
 </div><br/>
 
-### Estudante de Análise e Desenvolvimento de sistemas na universidade FIAP Paulista (Atualmente no 2º Semestre), previsão de conclusão em Agosto/2024. 
+### Estudante de Análise e Desenvolvimento de sistemas na universidade FIAP Paulista (Atualmente no 4º Semestre), previsão de conclusão em Agosto/2024. 
 
 #### Estou a procura de uma oportunidade que me faça aprender e praticar meus ensinamentos da faculdade e no impacto profissional! 💻<br/>
